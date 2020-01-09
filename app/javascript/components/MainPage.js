@@ -17,6 +17,11 @@ class MainPage extends Component {
                             <Button variant="light">Button</Button>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col>
+                            <a href="/about">About</a>
+                        </Col>
+                    </Row>
                 </Container>
 
             </div>
